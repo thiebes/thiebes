@@ -1,9 +1,3 @@
-<style>
-body {
-  background-color: #ffffff;
-}
-</style>
-
 - 👋 Hi, I’m Joseph @thiebes (rhymes with Phoebus).
 - 👀 I’m interested in kinetic monte carlo models and time-resolved spectroscopy & microscopy.
 - 🌱 I’m currently learning python, julia, and blockchain.
