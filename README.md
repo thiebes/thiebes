@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph @thiebes (rhymes with Phoebus).
-- 👀 I’m interested in kinetic monte carlo models and time-resolved spectroscopy & microscopy.
-- 🌱 I’m currently learning python, julia, and blockchain.
+- 👀 I’m interested in optoelectronic semiconductors, time-resolved spectroscopy & microscopy, and kinetic monte carlo models.  
+- 🌱 I’m currently learning python and julia.
 - 📫 Reach me at joseph(at)thiebes(dot)org
 
 <h3 align="left">Languages and Tools:</h3>
