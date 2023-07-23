@@ -1,36 +1,24 @@
-- 👋 Hi, I’m Joseph @thiebes (rhymes with Phoebus).
+- 👋 Hi, I’m Joseph Thiebes (rhymes with Phoebus).
 - 👀 I’m interested in optoelectronic semiconductors, time-resolved spectroscopy & microscopy, and kinetic monte carlo models.  
-- 🌱 I’m currently learning python and julia.
+- 🌱 I’m currently learning Python and Julia programming languages and practicing my German conversation skills.
 - 📫 Reach me at joseph(at)thiebes(dot)org
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="/icons/arduino-1.svg" alt="Arduino" style="vertical-align:middle; width: 40px;" /></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="/icons/github-icon.svg" alt="GitHub" style="vertical-align:middle; width: 40px;" /></a> 
+  <a href="[https://git-scm.com/](https://julialang.org/)" target="_blank" rel="noreferrer">
+    <img src="/icons/julia.svg" alt="Julia Programming Language" style="vertical-align:middle; height: 40px;" /></a> 
   <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/thiebes/thiebes/blob/c0d382af37abffbdbffcfc8db6c81ac06ebcb156/national-instruments-labview.svg" alt="LabView" width="40" height="40"/>
-  </a>
+    <img src="/icons/national-instruments-labview.svg" alt="National Instruments LabView" style="vertical-align:middle; width: 40px;" /></a>
   <a href="https://www.latex-project.org//" target="_blank" rel="noreferrer">
-    <img src="https://github.com/thiebes/thiebes/blob/f867c149e1b2b54c5e3605f9ea400e2d6b9433b6/latex.svg" alt=LaTeX" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+    <img src="/icons/latex.svg" alt=LaTeX" style="vertical-align:middle; height: 40px;" /></a>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer">
+    <img src="/icons/mathematica-1.svg" alt="Wolfram Mathematica" style="vertical-align:middle; width: 40px;" /></a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="/icons/matlab.svg" alt="MATLAB by MathWorks" style="vertical-align:middle; width: 40px;" /></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="/icons/python-5.svg" alt="Python" style="vertical-align:middle; width: 40px;" /></a> 
 </p>
-
