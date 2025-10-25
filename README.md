@@ -9,7 +9,7 @@
     <img src="/icons/arduino-1.svg" alt="Arduino" style="vertical-align:middle; width: 40px;" /></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="/icons/github-icon.svg" alt="GitHub" style="vertical-align:middle; width: 40px;" /></a> 
-  <a href="[https://git-scm.com/](https://julialang.org/)" target="_blank" rel="noreferrer">
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
     <img src="/icons/julia.svg" alt="Julia Programming Language" style="vertical-align:middle; height: 40px;" /></a> 
   <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
     <img src="/icons/national-instruments-labview.svg" alt="National Instruments LabView" style="vertical-align:middle; width: 40px;" /></a>
