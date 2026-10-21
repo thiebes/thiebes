@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Thiebes (rhymes with Phoebus).
 - 👀 I’m interested in optoelectronic semiconductors, materials for energy storage and conversion, time-resolved spectroscopy & microscopy, and kinetic Monte Carlo models.  
-- 🌱 I’m currently learning Python and Julia programming languages and practicing my German conversation skills.
+- 🌱 I’m currently learning to speak Spanish.
 - 📫 [Contact me](https://thiebes.org/contact/)
 
 ## Languages and Tools
